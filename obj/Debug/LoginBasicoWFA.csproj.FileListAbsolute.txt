@@ -1,0 +1,11 @@
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\bin\Debug\LoginBasicoWFA.exe.config
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\bin\Debug\LoginBasicoWFA.exe
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\bin\Debug\LoginBasicoWFA.pdb
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.csproj.AssemblyReference.cache
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.Properties.Resources.resources
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.csproj.GenerateResource.cache
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.csproj.CoreCompileInputs.cache
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.exe
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.pdb
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.Login.resources
+C:\Development\BackEnd\C#_Projects\LoginBasicoWFA\obj\Debug\LoginBasicoWFA.InicioApp.resources
